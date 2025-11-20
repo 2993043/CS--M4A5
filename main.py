@@ -13,6 +13,11 @@ answer = (str((a-b)+(a*b)))
 print("Your answer is: "+str(answer))
 
 #3rd part
+if = 1:
+        print("    /\_/\  ")
+        print("   (o . o) ")
+        print("   >  ^  <   ")
+
 print("  /\_/\     /\_/\     /\_/\     /\_/\      ^___^ ")
 print(" (o . o)   (o . o)   (o . o)   (o . o)    /     \ ")
 print(" >  ^  <   >  ^  <   >  ^  <   >  ^  <   ( *   * ) ")
@@ -22,3 +27,10 @@ print(" /\_/\    /\_/\   /\_/\    /\_/\     /\_/\       /\_/\                   
 print(" /\_/\     /\_/\     /\_/\     /\_/\     /\_/\     /\_/\ ")
 print("(o . o)   (o . o)   (o . o)   (o . o)   (o . o)   (o . o) ")
 print(">  ^  <   >  ^  <   >  ^  <   >  ^  <   >  ^  <   >  ^  < ")
+
+
+print("    ^___^  "  )
+print("   /     \ ")
+print("  ( *   * ) ")
+print("  {>     <} ")
+print("   \     / ")
