@@ -13,11 +13,20 @@ answer = (str((a-b)+(a*b)))
 print("Your answer is: "+str(answer))
 
 #3rd part
-if = 1:
+print("Welcome to my ASCII museum!")
+print("Would you like to see #1 (cat) or #2 (mouse)?")
+art = 1
+if num = 1:
         print("    /\_/\  ")
         print("   (o . o) ")
         print("   >  ^  <   ")
+else:        
+        print("    ^___^     ")
+        print("   / 0.0 \  ")
+        print("   >  ^  <   ")
 
+
+        
 print("  /\_/\     /\_/\     /\_/\     /\_/\      ^___^ ")
 print(" (o . o)   (o . o)   (o . o)   (o . o)    /     \ ")
 print(" >  ^  <   >  ^  <   >  ^  <   >  ^  <   ( *   * ) ")
